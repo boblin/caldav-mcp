@@ -5,7 +5,7 @@
 node_modules
 
 # build
-dist
+# dist (committed in this branch only — for `npx -y github:boblin/caldav-mcp#prebuilt-for-npx`)
 
 # test coverage
 coverage
